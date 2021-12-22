@@ -21,4 +21,8 @@ njonsson86/njonsson86 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 This is a test! 2. C.
->>>>>>> 9cc319aee6410653fdff3e70279da1cf19a0d1b4
+
+3. B.
+
+Test 1
+Test 2
