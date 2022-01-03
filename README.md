@@ -44,3 +44,6 @@ documentation change2
 documentation change3
 
 This is a new documentation
+
+Document this feature
+
