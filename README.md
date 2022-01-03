@@ -65,4 +65,8 @@ documentation change
 
 documentation change2
 
+<<<<<<< HEAD
+>>>>>>> documentation
+=======
+documentation change3
 >>>>>>> documentation
