@@ -23,6 +23,7 @@ Update2 in master branch with proper comment
 Update2 in master branch with proper comment
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refactoring branch change 1.
 >>>>>>> refactoring
 =======
@@ -52,3 +53,9 @@ change 1 in documentation branch!
 
 documentation change
 >>>>>>> documentation
+=======
+Refactoring branch change 1.
+Refactoring brnach change 2.
+>>>>>>> refactoring
+change again in master branch
+
