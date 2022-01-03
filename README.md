@@ -70,3 +70,9 @@ documentation change2
 =======
 documentation change3
 >>>>>>> documentation
+
+
+
+
+Removal of blank rows
+
