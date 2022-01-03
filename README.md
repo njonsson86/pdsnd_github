@@ -48,3 +48,6 @@ This is a new documentation
 Document this feature
 
 Add user guidelines
+
+Add installation guidelines for end-users
+
