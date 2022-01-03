@@ -59,3 +59,10 @@ Refactoring brnach change 2.
 >>>>>>> refactoring
 change again in master branch
 
+<<<<<<< HEAD
+=======
+documentation change
+
+documentation change2
+
+>>>>>>> documentation
