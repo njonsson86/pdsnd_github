@@ -78,3 +78,4 @@ Removal of blank rows
 
 feature for improving the performance
 
+This is a new button for the login page.
